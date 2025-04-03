@@ -4,7 +4,7 @@
 
 💡 Passionate about **self-development**, always eager to **learn new things** and **build personal projects** that challenge my skills and creativity. I enjoy exploring different areas of technology, solving problems, and continuously improving my knowledge
 
-💻 Interested in **Web Development (Back-end & Front-end), Data Science and Machine Learning**
+💻 Interested in **Web Development (Back-end & Front-end)**, **Data Science** and **Machine Learning**
 
 <div align="center">
     <h3>:bar_chart: My GitHub stats</h3>
